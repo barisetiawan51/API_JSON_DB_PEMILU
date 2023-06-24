@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "username": "2103040139",
+      "password": "-",
+      "nama": "Imam Bari Setiawan",
+      "prodi": "Teknik Informatika",
+      "kontak": "+6283108175245"
+    },
+    {
+      "username": "2103040129",
+      "password": "-",
+      "nama": "Febrian Adi Prasetyo",
+      "prodi": "Teknik Informatika",
+      "kontak": "+6281223007568"
+    },
+    {
+      "nama": "pass",
+      "prodi": "Teknik Informatika",
+      "kontak": "+6289879669868",
+      "username": "user",
+      "password": "pass"
+    },
+    {
+      "nama": "pass",
+      "prodi": "Teknik Informatika",
+      "kontak": "+6289879669868",
+      "username": "-",
+      "password": "-"
+    }
+  ]
+}
